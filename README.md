@@ -21,3 +21,5 @@ Data Model is used for Establishing the relationship between the tables.Data Mod
 
 ![Sales_view](https://github.com/jnana027/Power_BI_Dashboard_on_AtliQ_Hardware_Technology/assets/120124430/b1eeadc0-cfad-4144-9aeb-d4b8728cf547)
 
+3.Marketing view : drill down is used to show the performance of different products and regions using a matrix. Waterfall chart is used to show the increase or decrease in gross margin, net profit and operational expense.
+
