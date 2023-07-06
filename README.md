@@ -23,5 +23,6 @@ Data Model is used for Establishing the relationship between the tables.Data Mod
 3.Marketing view : drill down is used to show the performance of different products and regions using a matrix. Waterfall chart is used to show the increase or decrease in gross margin, net profit and operational expense.
 ![marketing_view](https://github.com/jnana027/Power_BI_Dashboard_on_AtliQ_Hardware_Technology/assets/120124430/15287b3b-c7d2-4a00-8833-19fd1e8364e6)
 
-Supply chain view : Customer and product performance is shown on the basis of forecast accuracy %, forecast accuracy LY %, net error and net error % is displayed in a matrix. Accuracy and net error's trend is shown over the period using a line and stacked column chart.
+4.Supply chain view : Customer and product performance is shown on the basis of forecast accuracy %, forecast accuracy LY %, net error and net error % is displayed in a matrix. Accuracy and net error's trend is shown over the period using a line and stacked column chart.
+![supply chain_view](https://github.com/jnana027/Power_BI_Dashboard_on_AtliQ_Hardware_Technology/assets/120124430/eb519012-a39b-405e-be5b-b24aa906bd62)
 
