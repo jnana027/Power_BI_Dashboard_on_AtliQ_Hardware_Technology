@@ -27,5 +27,6 @@ Data Model is used for Establishing the relationship between the tables.Data Mod
 ![supply chain_view](https://github.com/jnana027/Power_BI_Dashboard_on_AtliQ_Hardware_Technology/assets/120124430/eb519012-a39b-405e-be5b-b24aa906bd62)
 
 5.Executive View: Executive viewto obtain a consolidated view of key performance indicators (KPIs)and alerts associated with the KPIs. The Executive viewenables users with cross-organization responsibility to monitor manageand respond to status changes in relation to the key areas of organizationalperformance and well-being.Also used to shown the Key insights by SubZone,Revenue by Division,Revenue by challel,PC Market Share Trend AtliQ & Competitors,Top 5 customer,Top 5 channel.
+![Executive view](https://github.com/jnana027/Power_BI_Dashboard_on_AtliQ_Hardware_Technology/assets/120124430/5279b7ac-3f41-4a0e-b501-451b608010e2)
 
 
