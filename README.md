@@ -12,3 +12,7 @@ This is a home page which is the main page and it can take you to othere pages w
 
 Data Model is used for Establishing the relationship between the tables.Data Model is need when ever we need to create visuals using more than one tables we need to have relationships between them.
 ![data modeling](https://github.com/jnana027/Power_BI_Dashboard_on_AtliQ_Hardware_Technology/assets/120124430/cb30b4ff-e863-49e0-b454-14f35a3bf31d)
+
+
+1.Finance view : Profit and loss statement, Net sales performance over the time, Top and bottom products and customers net sales
+
