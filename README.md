@@ -14,5 +14,6 @@ Data Model is used for Establishing the relationship between the tables.Data Mod
 ![data modeling](https://github.com/jnana027/Power_BI_Dashboard_on_AtliQ_Hardware_Technology/assets/120124430/cb30b4ff-e863-49e0-b454-14f35a3bf31d)
 
 
-1.Finance view : Profit and loss statement, Net sales performance over the time, Top and bottom products and customers net sales
+1.Finance view : Profit and loss statement, Net sales performance over the time, Top and bottom products and customers net sales\
+![financial_view](https://github.com/jnana027/Power_BI_Dashboard_on_AtliQ_Hardware_Technology/assets/120124430/a4256b02-3346-4c62-b376-3fbf27446470)
 
