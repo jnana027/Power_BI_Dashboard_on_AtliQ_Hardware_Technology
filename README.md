@@ -19,3 +19,5 @@ Data Model is used for Establishing the relationship between the tables.Data Mod
 
 2.Sales view : Customer performance like net sales, gross margin and gross margin % is shown using matrix and scatter chart. Which product perform best is also displayed using a matrix throgh net sales, gross margin and gross margin %. two donut charts are used for unit economics. Donut charts are used to show the distribution of net sales, total post invoice deduction and total pre invoice deduction. Second donut chart is used to show cost of goods sold and gross margin.
 
+![Sales_view](https://github.com/jnana027/Power_BI_Dashboard_on_AtliQ_Hardware_Technology/assets/120124430/b1eeadc0-cfad-4144-9aeb-d4b8728cf547)
+
