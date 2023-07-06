@@ -1,4 +1,5 @@
 # Power_BI_Dashboard_on_AtliQ_Hardware_Technology
+
 This BI dashboard will help the AtliQ_Hardware_Technology to analyse the sales of their electronic devices in different countries and make insightful decision to grow their revenue and recognize the area where the performance is not up-to-the-mark.
 
 Tools:MySQL,Excel,Power BI
